@@ -226,30 +226,17 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {174770816,65609166},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [C●A●C●T●U●S v1
 
-https://github.com/SEEDTEAM/TeleSeed
+Created By CactusTeam 😃
 
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
-
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
-
-Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+Sudo Users ☯
+@programing_soft ☸
+@allwen ☸
+And Cactus Team Members Is Admin ☢
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -419,13 +406,9 @@ Will return group logs
 !banlist
 Will return group ban list
 
-» U can use both "/" and "!" 
+Bot Has Working With !,/ Commands 
 
-» Only mods, owner and admin can add bots in group
-
-» Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-» Only owner can use res,setowner,promote,demote and log commands
+CopyRight ⓒ Cactus Team 
 
 ]]
   }
